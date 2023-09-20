@@ -25,5 +25,5 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-  We'll start by creating a ticket as an End User. Go to the following URL inside the browser to access the osTicket system Support Center: [http://localhost/osTicket/](http://localhost/osTicket/) .
+  We'll start by creating a ticket as an End User. Go to the following URL inside the browser to access the osTicket system Support Center: [http://localhost/osTicket/] (http://localhost/osTicket/) .
 </p>
