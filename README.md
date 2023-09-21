@@ -32,28 +32,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 ![image](https://github.com/marbienjimeno/ticket-lifecycle/assets/29347863/cc9150cd-d0ab-4c9b-b31a-dbcd3d166c7c)
 
 <p>
-  We will create  the first ticket as the user Karen Kove. For Email Address, enter "karen@osticket.com". For Full Name, enter "Karen Kove". For Help Topic, select Business Critical Outage. For Issue Summary, we'll enter "Entire mobile online banking is down". For the additional ticket details, enter "Customers are reporting they are getting a 404 error when browsing online banking". Click Create Ticket. 
+  We will create a ticket as the user Karen Kove. For Email Address, enter "karen@osticket.com". For Full Name, enter "Karen Kove". For Help Topic, select Business Critical Outage. For Issue Summary, we'll enter "Entire mobile online banking is down". For the additional ticket details, enter "Customers are reporting they are getting a 404 error when browsing online banking". Click Create Ticket. 
 </p>
 
 ![image](https://github.com/marbienjimeno/ticket-lifecycle/assets/29347863/9ed2a629-d529-4b58-a6ef-53e755ccfb96)
 
 ![image](https://github.com/marbienjimeno/ticket-lifecycle/assets/29347863/456cb6e5-a8c0-4be1-8817-22adc2931064)
-
-<p>
-  For the second ticket, we'll create it as the user Ken Kount. For Email Address, enter "ken@osticket.com". For Full Name, enter "Ken Kount". For Help Topic, select Personal Computer Issues. For Issue Summary, input "Entire Accounting Dept Adobe Reader not working". For the ticket details, enter "Ever since the upgrade last night, nobody in accounting has been able to use Adobe Reader". Click Create Ticket.
-</p>
-
-![image](https://github.com/marbienjimeno/ticket-lifecycle/assets/29347863/fcd512c4-18b1-46bb-a8a7-baaffcb7dce9)
-
-![image](https://github.com/marbienjimeno/ticket-lifecycle/assets/29347863/5d10ea0b-a86a-4c66-86b2-0f9e3ed0cb74)
-
-<p>
-  For a third ticket, we'll create it as Karen Kove. For Email Address, enter "karen@osticket.com". For Full Name, enter "Karen Kove". For Help Topic, select General Inquiry. For Issue Summary, we'll enter "When are we getting a hardware refresh". For the additional ticket details, enter "Most of my dept is having issues with their current tablets, we need this ASAP. Please provide info". Click Create Ticket. 
-</p>
-
-![image](https://github.com/marbienjimeno/ticket-lifecycle/assets/29347863/2d3f75a8-cf10-4998-a3ae-7175d6573154)
-
-![image](https://github.com/marbienjimeno/ticket-lifecycle/assets/29347863/bcad304d-9276-43c0-a48a-a4e93695a3b7)
 
 **Assignment and Communication**
 
@@ -64,7 +48,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 ![image](https://github.com/marbienjimeno/ticket-lifecycle/assets/29347863/805c5c90-e182-4739-9e25-d139d4e5d906)
 
 <p>
-  We should see the three tickets previously created. Click on "Entire mobile online banking is down" to start assigning the ticket.
+  We should see the open tickets created by Users. Click on "Entire mobile online banking is down" to start assigning the ticket.
 </p>
 
 ![image](https://github.com/marbienjimeno/ticket-lifecycle/assets/29347863/a5a0ba4b-d236-4eb9-afab-73a3ed613e3c)
