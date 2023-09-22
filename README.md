@@ -90,3 +90,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 
 ![image](https://github.com/marbienjimeno/ticket-lifecycle/assets/29347863/f9fe4617-1022-4678-b98e-e85dbaac5ac8)
+
+**Conclusion**
+<p>
+  In this lab, we followed and demonstrated the lifecycle of a helpdesk support ticket from intake to resolution using the osTicket ticketing system.
+</p>
